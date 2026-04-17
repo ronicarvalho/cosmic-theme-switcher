@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=COSMIC Theme Switch
+Comment=Toggle between COSMIC light and dark theme from the panel
+Exec=cosmic-theme-switcher
+Icon=dev.encoders.CosmicThemeSwitcher
+Categories=Utility;
+Terminal=false
+NoDisplay=true
+X-CosmicApplet=true
